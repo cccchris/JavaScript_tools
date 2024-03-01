@@ -1,5 +1,5 @@
 {
-  "name": "JavaScript_tools",
+  "name": "WY_JStools",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cccchris/JavaScript_tools.git"
+    "url": "https://github.com/cccchris/WY_JStools.git"
   },
   "author": "cccchris",
   "keywords": [],
